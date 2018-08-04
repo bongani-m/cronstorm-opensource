@@ -1,0 +1,20 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "gstore/package.json",
+        "package.json",
+        "pocketwatch-cache/package.json",
+        "pocketwatch/gstore/package.json",
+        "pocketwatch/package.json",
+        "pocketwatch/pocketwatch-mechanism/package.json",
+        "pocketwatch/pocketwatch-mechanism/pocketwatch-cache/package.json",
+        "pocketwatch/pocketwatch-supervisor/gstore/package.json",
+        "pocketwatch/pocketwatch-supervisor/package.json",
+        "pocketwatch/pocketwatch-supervisor/pocketwatch-cache/package.json",
+        "pocketwatch/pocketwatch-supervisor/pocketwatch-mechanism/package.json",
+        "pocketwatch/pocketwatch-supervisor/pocketwatch-mechanism/pocketwatch-cache/package.json"
+      ]
+    }
+  }
+}
