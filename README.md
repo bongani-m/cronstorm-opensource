@@ -1,5 +1,7 @@
 # cronstorm-services
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bongani-m/cronstorm-opensource.svg)](https://greenkeeper.io/)
+
 So this is my first fully functional SaaS
 
 Except no one wants to pay for it, it seems.
